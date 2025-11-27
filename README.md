@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-21-blue)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-green)](https://spring.io/projects/spring-boot)
 [![gRPC](https://img.shields.io/badge/gRPC-1.65.0-brightgreen)](https://grpc.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 
 ---
 
